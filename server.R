@@ -31,10 +31,12 @@ shinyServer(function(input, output) {
   
   ### This tokens are obtained after making a Twitter Developer Account. Which is very easy to make following some Google Search steps. 
   
-  consumer_key = "7o0tvmH08Crv81aJa0Pz9XVnD" #Consumer key from twitter app
-  consumer_secret = "BqcbxByLHolAhHxhbTeUCRUgXnNqfrgvzpPKbDIJzdTqAjwd0Z" #Consumer secret from twitter app
-  access_token = "998921185273438213-TG6v3EQu4OSE8ydeXkg0xYZSPWPYQzj" #access token from twitter app
-  access_secret ="2HE4tOZxaZLMYTLoZlpYRo6fkHzYbloWL1iTpKQTNY08d" #access secret from twitter app
+  ### My Original Tokens are masked with *** in this code. Please replace with your own. 
+  
+  consumer_key = "*********" #Consumer key from twitter app
+  consumer_secret = "*********" #Consumer secret from twitter app
+  access_token = "*********" #access token from twitter app
+  access_secret ="*********" #access secret from twitter app
   
  
   
